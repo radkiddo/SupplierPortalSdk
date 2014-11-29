@@ -1,0 +1,3 @@
+T:\SpSdlCoreTest.exe.config
+T:\SpSdlCoreTest.exe
+T:\SpSdlCoreTest.pdb

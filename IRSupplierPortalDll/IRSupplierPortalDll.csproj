@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A4D09C5B-8D39-4A46-9D5D-D7ED8DABA879}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IRSupplierPortalDll</RootNamespace>
+    <AssemblyName>IRSupplierPortalDll</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\Program Files %28x86%29\TIS\eFlow 5\Bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\Program Files %28x86%29\TIS\eFlow 5\Bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TiS.Core.Application.Client, Version=5.0.0.0, Culture=neutral, PublicKeyToken=0752346849557bc9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Program Files (x86)\TIS\eFlow 5\Bin\TiS.Core.Application.Client.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="TiS.Core.Application.Common, Version=5.0.0.0, Culture=neutral, PublicKeyToken=0752346849557bc9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Program Files (x86)\TIS\eFlow 5\Bin\TiS.Core.Application.Common.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="TiS.Core.Domain.Client, Version=5.0.0.0, Culture=neutral, PublicKeyToken=0752346849557bc9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Program Files (x86)\TIS\eFlow 5\Bin\TiS.Core.Domain.Client.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="TiS.Core.Domain.Common, Version=5.0.0.0, Culture=neutral, PublicKeyToken=0752346849557bc9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Program Files (x86)\TIS\eFlow 5\Bin\TiS.Core.Domain.Common.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="TiS.Core.TisCommon.Client, Version=5.0.0.0, Culture=neutral, PublicKeyToken=0752346849557bc9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Program Files (x86)\TIS\eFlow 5\Bin\TiS.Core.TisCommon.Client.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="TiS.Core.TisCommon.Common, Version=5.0.0.0, Culture=neutral, PublicKeyToken=0752346849557bc9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Program Files (x86)\TIS\eFlow 5\Bin\TiS.Core.TisCommon.Common.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="TiS.DevGER.MR.PostReco, Version=6.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>T:\TiS.DevGER.MR.PostReco.dll</HintPath>
+    </Reference>
+    <Reference Include="TiS.RecognitionWorkflow.Activity, Version=5.0.0.0, Culture=neutral, PublicKeyToken=0752346849557bc9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>T:\TiS.RecognitionWorkflow.Activity.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="TiS.StationDeclaration.Recognition, Version=5.0.0.0, Culture=neutral, PublicKeyToken=0752346849557bc9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>T:\TiS.StationDeclaration.Recognition.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FreeProcess.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SPCompl.cs" />
+    <Compile Include="SPImport.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\CollectionManagementSDK\CollectionManagementSDK\CollectionManagement.csproj">
+      <Project>{53C58219-49CD-4227-89F1-3EE57ED9C9B8}</Project>
+      <Name>CollectionManagement</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SupplierPortalSdkLite\SupplierPortalSdkLite.csproj">
+      <Project>{42FEB823-8AF0-41F9-8A24-72AC13CE806F}</Project>
+      <Name>SupplierPortalSdkLite</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,3 @@
+C:\Eduardo\SupplierPortalSdk\TiS.Engineering.InputApi\obj\Debug\TiS.Engineering.InputApi.csprojResolveAssemblyReference.cache
+C:\Eduardo\SupplierPortalSdk\TiS.Engineering.InputApi\obj\Debug\TiS.Engineering.InputApi.dll
+C:\Eduardo\SupplierPortalSdk\TiS.Engineering.InputApi\obj\Debug\TiS.Engineering.InputApi.pdb

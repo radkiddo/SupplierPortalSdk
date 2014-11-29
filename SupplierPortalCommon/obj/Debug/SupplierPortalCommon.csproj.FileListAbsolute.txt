@@ -1,0 +1,7 @@
+T:\SupplierPortalCommon.dll
+T:\SupplierPortalCommon.pdb
+C:\Program Files (x86)\TIS\eFlow 5\Bin\SupplierPortalCommon.dll
+C:\Program Files (x86)\TIS\eFlow 5\Bin\SupplierPortalCommon.pdb
+C:\Eduardo\SupplierPortalSdk\SupplierPortalCommon\obj\Debug\SupplierPortalCommon.csprojResolveAssemblyReference.cache
+C:\Eduardo\SupplierPortalSdk\SupplierPortalCommon\obj\Debug\SupplierPortalCommon.dll
+C:\Eduardo\SupplierPortalSdk\SupplierPortalCommon\obj\Debug\SupplierPortalCommon.pdb

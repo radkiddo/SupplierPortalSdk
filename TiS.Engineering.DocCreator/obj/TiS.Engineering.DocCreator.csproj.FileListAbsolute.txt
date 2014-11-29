@@ -1,0 +1,8 @@
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.DocCreator\obj\Debug\ResolveAssemblyReference.cache
+T:\TiS.Engineering.DocCreator.dll
+T:\TiS.Engineering.DocCreator.pdb
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.DocCreator\obj\Debug\TiS.Engineering.DocCreator.dll
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.DocCreator\obj\Debug\TiS.Engineering.DocCreator.pdb
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.DocCreator\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.DocCreator\obj\Release\TiS.Engineering.DocCreator.dll
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.DocCreator\obj\Release\TiS.Engineering.DocCreator.pdb

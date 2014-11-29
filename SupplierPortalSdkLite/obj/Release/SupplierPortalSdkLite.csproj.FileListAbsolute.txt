@@ -1,0 +1,5 @@
+C:\Program Files (x86)\TIS\eFlow 5\Bin\eFlow.SDK.SupplierPortalLite.dll
+C:\Program Files (x86)\TIS\eFlow 5\Bin\eFlow.SDK.SupplierPortalLite.pdb
+C:\Eduardo\SupplierPortalSdk\SupplierPortalSdkLite\obj\Release\SupplierPortalSdkLite.csprojResolveAssemblyReference.cache
+C:\Eduardo\SupplierPortalSdk\SupplierPortalSdkLite\obj\Release\eFlow.SDK.SupplierPortalLite.dll
+C:\Eduardo\SupplierPortalSdk\SupplierPortalSdkLite\obj\Release\eFlow.SDK.SupplierPortalLite.pdb

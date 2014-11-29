@@ -1,0 +1,5 @@
+C:\Program Files (x86)\TIS\eFlow 5\Bin\IRSupplierPortalDll.dll
+C:\Program Files (x86)\TIS\eFlow 5\Bin\IRSupplierPortalDll.pdb
+C:\Eduardo\SupplierPortalSdk\IRSupplierPortalDll\obj\Release\IRSupplierPortalDll.csprojResolveAssemblyReference.cache
+C:\Eduardo\SupplierPortalSdk\IRSupplierPortalDll\obj\Release\IRSupplierPortalDll.dll
+C:\Eduardo\SupplierPortalSdk\IRSupplierPortalDll\obj\Release\IRSupplierPortalDll.pdb

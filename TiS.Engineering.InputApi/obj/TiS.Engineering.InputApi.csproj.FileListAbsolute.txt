@@ -1,0 +1,8 @@
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.InputApi\obj\Debug\ResolveAssemblyReference.cache
+T:\TiS.Engineering.InputApi.dll
+T:\TiS.Engineering.InputApi.pdb
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.InputApi\obj\Debug\TiS.Engineering.InputApi.dll
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.InputApi\obj\Debug\TiS.Engineering.InputApi.pdb
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.InputApi\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.InputApi\obj\Release\TiS.Engineering.InputApi.dll
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.InputApi\obj\Release\TiS.Engineering.InputApi.pdb

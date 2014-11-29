@@ -1,0 +1,9 @@
+T:\SupplierPortalService.exe.config
+C:\Program Files (x86)\TIS\eFlow 5\Bin\SupplierPortalService.exe.config
+C:\Program Files (x86)\TIS\eFlow 5\Bin\SupplierPortalService.exe
+C:\Program Files (x86)\TIS\eFlow 5\Bin\SupplierPortalService.pdb
+C:\Eduardo\SupplierPortalSdk\SupplierPortalService\obj\Release\SupplierPortalService.csprojResolveAssemblyReference.cache
+C:\Eduardo\SupplierPortalSdk\SupplierPortalService\obj\Release\SupplierPortalService.Service.resources
+C:\Eduardo\SupplierPortalSdk\SupplierPortalService\obj\Release\SupplierPortalService.csproj.GenerateResource.Cache
+C:\Eduardo\SupplierPortalSdk\SupplierPortalService\obj\Release\SupplierPortalService.exe
+C:\Eduardo\SupplierPortalSdk\SupplierPortalService\obj\Release\SupplierPortalService.pdb

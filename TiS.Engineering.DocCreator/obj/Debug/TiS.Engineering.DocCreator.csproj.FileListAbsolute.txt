@@ -1,0 +1,5 @@
+T:\TiS.Engineering.DocCreator.dll
+T:\TiS.Engineering.DocCreator.pdb
+C:\Eduardo\SupplierPortalSdk\TiS.Engineering.DocCreator\obj\Debug\TiS.Engineering.DocCreator.csprojResolveAssemblyReference.cache
+C:\Eduardo\SupplierPortalSdk\TiS.Engineering.DocCreator\obj\Debug\TiS.Engineering.DocCreator.dll
+C:\Eduardo\SupplierPortalSdk\TiS.Engineering.DocCreator\obj\Debug\TiS.Engineering.DocCreator.pdb

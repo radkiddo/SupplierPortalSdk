@@ -1,0 +1,9 @@
+C:\Program Files (x86)\TIS\eFlow 5\Bin\SpSdlCoreTest.exe.config
+C:\Program Files (x86)\TIS\eFlow 5\Bin\SpSdlCoreTest.exe
+C:\Program Files (x86)\TIS\eFlow 5\Bin\SpSdlCoreTest.pdb
+C:\Eduardo\SupplierPortalSdk\SpTest\obj\Release\SpSdkCoreTest.csprojResolveAssemblyReference.cache
+C:\Eduardo\SupplierPortalSdk\SpTest\obj\Release\SpTest.FormTest.resources
+C:\Eduardo\SupplierPortalSdk\SpTest\obj\Release\SpSdlCoreTest.Properties.Resources.resources
+C:\Eduardo\SupplierPortalSdk\SpTest\obj\Release\SpSdkCoreTest.csproj.GenerateResource.Cache
+C:\Eduardo\SupplierPortalSdk\SpTest\obj\Release\SpSdlCoreTest.exe
+C:\Eduardo\SupplierPortalSdk\SpTest\obj\Release\SpSdlCoreTest.pdb

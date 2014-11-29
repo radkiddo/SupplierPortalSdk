@@ -1,0 +1,1 @@
+sc create SupplierPortalService binpath= "C:\Program Files\Tis\eFlow 4.5\Bin\SupplierPortalService.exe"

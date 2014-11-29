@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiS.Engineering.InputApi", "TiS.Engineering.InputApi\TiS.Engineering.InputApi.csproj", "{0B29C6DA-203F-4846-BC7D-A6F9754D6D90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiS.Engineering.InputApiTester", "TiS.Engineering.InputApiTester\TiS.Engineering.InputApiTester\TiS.Engineering.InputApiTester.csproj", "{C88FC70E-300A-4320-81AB-EB54906AC3C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		FaxPortal|Any CPU = FaxPortal|Any CPU
+		Import|Any CPU = Import|Any CPU
+		OCR|Any CPU = OCR|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B29C6DA-203F-4846-BC7D-A6F9754D6D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B29C6DA-203F-4846-BC7D-A6F9754D6D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B29C6DA-203F-4846-BC7D-A6F9754D6D90}.FaxPortal|Any CPU.ActiveCfg = FaxPortal|Any CPU
+		{0B29C6DA-203F-4846-BC7D-A6F9754D6D90}.FaxPortal|Any CPU.Build.0 = FaxPortal|Any CPU
+		{0B29C6DA-203F-4846-BC7D-A6F9754D6D90}.Import|Any CPU.ActiveCfg = Import|Any CPU
+		{0B29C6DA-203F-4846-BC7D-A6F9754D6D90}.Import|Any CPU.Build.0 = Import|Any CPU
+		{0B29C6DA-203F-4846-BC7D-A6F9754D6D90}.OCR|Any CPU.ActiveCfg = FreeMatch|Any CPU
+		{0B29C6DA-203F-4846-BC7D-A6F9754D6D90}.OCR|Any CPU.Build.0 = FreeMatch|Any CPU
+		{0B29C6DA-203F-4846-BC7D-A6F9754D6D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B29C6DA-203F-4846-BC7D-A6F9754D6D90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88FC70E-300A-4320-81AB-EB54906AC3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88FC70E-300A-4320-81AB-EB54906AC3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88FC70E-300A-4320-81AB-EB54906AC3C1}.FaxPortal|Any CPU.ActiveCfg = FaxPortal|Any CPU
+		{C88FC70E-300A-4320-81AB-EB54906AC3C1}.FaxPortal|Any CPU.Build.0 = FaxPortal|Any CPU
+		{C88FC70E-300A-4320-81AB-EB54906AC3C1}.Import|Any CPU.ActiveCfg = Import|Any CPU
+		{C88FC70E-300A-4320-81AB-EB54906AC3C1}.Import|Any CPU.Build.0 = Import|Any CPU
+		{C88FC70E-300A-4320-81AB-EB54906AC3C1}.OCR|Any CPU.ActiveCfg = FreeMatch|Any CPU
+		{C88FC70E-300A-4320-81AB-EB54906AC3C1}.OCR|Any CPU.Build.0 = FreeMatch|Any CPU
+		{C88FC70E-300A-4320-81AB-EB54906AC3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88FC70E-300A-4320-81AB-EB54906AC3C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>StationId:Export Source:C:\BUPA\PDF\Office7Pages.pdf Target:C:\BUPA\PDF\Office7Pages-result.tif type:tif</StartArguments>
+    <StartAction>Program</StartAction>
+    <StartProgram>T:\efSimpleAuto.exe</StartProgram>
+    <StartWorkingDirectory>T:\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>T:\</ReferencePath>
+  </PropertyGroup>
+</Project>

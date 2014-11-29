@@ -1,0 +1,3 @@
+T:\SupplierPortalDaemon.exe.config
+T:\SupplierPortalDaemon.exe
+T:\SupplierPortalDaemon.pdb

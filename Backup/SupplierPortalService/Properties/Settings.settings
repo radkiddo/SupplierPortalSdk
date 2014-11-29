@@ -1,0 +1,456 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SupplierPortalService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="connectionStr01" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=TEST1\SQLEXPRESS;Initial Catalog=CLS_Workflow;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="connectionStr02" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="connectionStr03" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="connectionStr04" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="connectionStr05" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="connectionStr06" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="connectionStr07" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="connectionStr08" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="connectionStr09" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="connectionStr10" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="interval" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="portalFilesRouteKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp.doksend.com</Value>
+    </Setting>
+    <Setting Name="app01WhoCanSeeInPortal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CLS_Workflow=speedyservices.com|topimagesystems.com</Value>
+    </Setting>
+    <Setting Name="app02WhoCanSeeInPortal" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app03WhoCanSeeInPortal" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app04WhoCanSeeInPortal" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app05WhoCanSeeInPortal" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app06WhoCanSeeInPortal" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app07WhoCanSeeInPortal" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app08WhoCanSeeInPortal" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app09WhoCanSeeInPortal" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app10WhoCanSeeInPortal" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app01ImportPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\temp\cls</Value>
+    </Setting>
+    <Setting Name="app02ImportPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app03ImportPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app04ImportPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app05ImportPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app06ImportPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app07ImportPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app08ImportPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app09ImportPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="app10ImportPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="fieldIRSupplierName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_Name</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplierStreet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_Street</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplierZIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_ZIP</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_City" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_City</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_VATID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_VATID</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_Postbox" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_Postbox</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_Postbox_City" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_Postbox_City</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_Postbox_Zip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_Postbox_Zip</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_Telephone1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_Telephone1</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_Telephone2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_Telephone2</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_Faxnumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_Faxnumber</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_SWIFT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_SWIFT</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_IBAN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_IBAN</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_IBAN2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_IBAN2</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_Branchcode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_Branchcode</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_Branchcode2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_Branchcode2</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_Branchcode3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_Branchcode3</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_AccountNo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_AccountNo</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_AccountNo2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_AccountNo2</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_AccountNo3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_AccountNo3</Value>
+    </Setting>
+    <Setting Name="fieldIRDocument_Type" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Document_Type</Value>
+    </Setting>
+    <Setting Name="fieldIRInvoice_Number" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Invoice_Number</Value>
+    </Setting>
+    <Setting Name="fieldIRDeliveryNoteNo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DeliveryNoteNo</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplierTaxNo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SupplierTaxNo</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplierEsrNo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SupplierEsrNo</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplierEsrAccount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SupplierEsrAccount</Value>
+    </Setting>
+    <Setting Name="fieldIRReceiver_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Receiver_Name</Value>
+    </Setting>
+    <Setting Name="fieldIRReceiver_Street" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Receiver_Street</Value>
+    </Setting>
+    <Setting Name="fieldIRReceiver_ZIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Receiver_ZIP</Value>
+    </Setting>
+    <Setting Name="fieldIRReceiver_City" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Receiver_City</Value>
+    </Setting>
+    <Setting Name="fieldIRReceiver_VATID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Receiver_VATID</Value>
+    </Setting>
+    <Setting Name="fieldIRNet_Amount1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Net_Amount1</Value>
+    </Setting>
+    <Setting Name="fieldIRVAT1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VAT1</Value>
+    </Setting>
+    <Setting Name="fieldIRVAT_Amount1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VAT_Amount1</Value>
+    </Setting>
+    <Setting Name="fieldIRNet_Amount2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Net_Amount2</Value>
+    </Setting>
+    <Setting Name="fieldIRVAT2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VAT2</Value>
+    </Setting>
+    <Setting Name="fieldIRVAT_Amount2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VAT_Amount2</Value>
+    </Setting>
+    <Setting Name="fieldIROther_Costs1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Other_Costs1</Value>
+    </Setting>
+    <Setting Name="fieldIROther_Costs2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Other_Costs2</Value>
+    </Setting>
+    <Setting Name="fieldIROther_Costs3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Other_Costs3</Value>
+    </Setting>
+    <Setting Name="fieldIROther_Costs4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Other_Costs4</Value>
+    </Setting>
+    <Setting Name="fieldIRDiscount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Discount</Value>
+    </Setting>
+    <Setting Name="fieldIRTotal_Amount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Total_Amount</Value>
+    </Setting>
+    <Setting Name="fieldIRCurrency" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Currency</Value>
+    </Setting>
+    <Setting Name="fieldIRPO_Number" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PO_Number</Value>
+    </Setting>
+    <Setting Name="fieldIRBUKRS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BUKRS</Value>
+    </Setting>
+    <Setting Name="fieldIRScanDate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ScanDate</Value>
+    </Setting>
+    <Setting Name="fieldIRInvoice_Date" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Invoice_Date</Value>
+    </Setting>
+    <Setting Name="fieldIRInvoiceType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">InvoiceType</Value>
+    </Setting>
+    <Setting Name="fieldIRNet_Amount3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Net_Amount3</Value>
+    </Setting>
+    <Setting Name="fieldIRNet_Amount4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Net_Amount4</Value>
+    </Setting>
+    <Setting Name="fieldIRVAT3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VAT3</Value>
+    </Setting>
+    <Setting Name="fieldIRVAT4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VAT4</Value>
+    </Setting>
+    <Setting Name="fieldIRVAT_Amount3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VAT_Amount3</Value>
+    </Setting>
+    <Setting Name="fieldIRVAT_Amount4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VAT_Amount4</Value>
+    </Setting>
+    <Setting Name="fieldIRBatchId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BatchId</Value>
+    </Setting>
+    <Setting Name="fieldIRClient" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Client</Value>
+    </Setting>
+    <Setting Name="fieldIRMemo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Memo</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_BankdataMatched" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_BankdataMatched</Value>
+    </Setting>
+    <Setting Name="fieldIRCompletionUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CompletionUser</Value>
+    </Setting>
+    <Setting Name="fieldIROCRState" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OCRState</Value>
+    </Setting>
+    <Setting Name="fieldIRSeperationBarcode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SeperationBarcode</Value>
+    </Setting>
+    <Setting Name="fieldIRDiscount_Amount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Discount_Amount</Value>
+    </Setting>
+    <Setting Name="fieldIRExt_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ext_1</Value>
+    </Setting>
+    <Setting Name="fieldIRExt_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ext_2</Value>
+    </Setting>
+    <Setting Name="fieldIRExt_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ext_3</Value>
+    </Setting>
+    <Setting Name="fieldIRReceiver_NameRow2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Receiver_NameRow2</Value>
+    </Setting>
+    <Setting Name="fieldIRDeliveryDateFrom" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DeliveryDateFrom</Value>
+    </Setting>
+    <Setting Name="fieldIRDeliveryDateTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DeliveryDateTo</Value>
+    </Setting>
+    <Setting Name="fieldIRSupplier_CorrespondentBankType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Supplier_CorrespondentBankType</Value>
+    </Setting>
+    <Setting Name="fieldIRReceiver_email" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Receiver_email</Value>
+    </Setting>
+    <Setting Name="fieldIRLineItems" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LineItems</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_PO_Number" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_PO_Number</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_Article_Number" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_Article_Number</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_Description" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_Description</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_Discount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_Discount</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_Quantity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_Quantity</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_Unit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_Unit</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_UnitPrice" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_UnitPrice</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_LineTotal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_LineTotal</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_DeliveryNoteNo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_DeliveryNoteNo</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_POPos" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_POPos</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_VAT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_VAT</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_AccountIdentifier" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_AccountIdentifier</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_Costcenter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_Costcenter</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_AccountNo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_AccountNo</Value>
+    </Setting>
+    <Setting Name="fieldIRVatItems" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VatItems</Value>
+    </Setting>
+    <Setting Name="fieldIRVat_Vat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vat_Vat</Value>
+    </Setting>
+    <Setting Name="fieldIRVat_VatAmount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vat_VatAmount</Value>
+    </Setting>
+    <Setting Name="fieldIRVat_NetAmount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vat_NetAmount</Value>
+    </Setting>
+    <Setting Name="fieldIRLineItems_MM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LineItems_MM</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_PO_Number_MM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_PO_Number_MM</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_Article_Number_MM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_Article_Number_MM</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_Description_MM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_Description_MM</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_Discount_MM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_Discount_MM</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_Quantity_MM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_Quantity_MM</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_Unit_MM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_Unit_MM</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_UnitPrice_MM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_UnitPrice_MM</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_LineTotal_MM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_LineTotal_MM</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_DeliveryNoteNo_MM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_DeliveryNoteNo_MM</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_POPos_MM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_POPos_MM</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_VAT_MM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_VAT_MM</Value>
+    </Setting>
+    <Setting Name="fieldIRLineItems_FI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LineItems_FI</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_Description_FI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_Description_FI</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_Discount_FI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_Discount_FI</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_Quantity_FI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_Quantity_FI</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_Unit_FI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_Unit_FI</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_UnitPrice_FI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_UnitPrice_FI</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_LineTotal_FI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_LineTotal_FI</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_AccountIdentifier_FI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_AccountIdentifier_FI</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_Costcenter_FI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_Costcenter_FI</Value>
+    </Setting>
+    <Setting Name="fieldIRPosition_AccountNo_FI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Position_AccountNo_FI</Value>
+    </Setting>
+    <Setting Name="fieldsToCheck" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Invoice_Number|PO_Number|Total_Amount|Supplier_Name|Net_Amount1|VAT_Amount1|VAT1|Invoice_Date</Value>
+    </Setting>
+    <Setting Name="stationsToCheckForFields" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Completion|FreeProcess</Value>
+    </Setting>
+    <Setting Name="imgUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">supplierportaluser</Value>
+    </Setting>
+    <Setting Name="imgPwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">e7low5!!</Value>
+    </Setting>
+    <Setting Name="imgFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/images</Value>
+    </Setting>
+    <Setting Name="imgReceive" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/images_receive</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

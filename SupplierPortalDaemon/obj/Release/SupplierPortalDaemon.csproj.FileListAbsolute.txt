@@ -1,0 +1,10 @@
+C:\Program Files (x86)\TIS\eFlow 5\Bin\SupplierPortalDaemon.exe.config
+C:\Program Files (x86)\TIS\eFlow 5\Bin\SupplierPortalDaemon.exe
+C:\Program Files (x86)\TIS\eFlow 5\Bin\SupplierPortalDaemon.pdb
+C:\Eduardo\SupplierPortalSdk\SupplierPortalDaemon\obj\Release\SupplierPortalDaemon.csprojResolveAssemblyReference.cache
+C:\Eduardo\SupplierPortalSdk\SupplierPortalDaemon\obj\Release\SupplierPortalDaemon.AboutBox.resources
+C:\Eduardo\SupplierPortalSdk\SupplierPortalDaemon\obj\Release\SupplierPortalDaemon.MainForm.resources
+C:\Eduardo\SupplierPortalSdk\SupplierPortalDaemon\obj\Release\SupplierPortalDaemon.Properties.Resources.resources
+C:\Eduardo\SupplierPortalSdk\SupplierPortalDaemon\obj\Release\SupplierPortalDaemon.csproj.GenerateResource.Cache
+C:\Eduardo\SupplierPortalSdk\SupplierPortalDaemon\obj\Release\SupplierPortalDaemon.exe
+C:\Eduardo\SupplierPortalSdk\SupplierPortalDaemon\obj\Release\SupplierPortalDaemon.pdb

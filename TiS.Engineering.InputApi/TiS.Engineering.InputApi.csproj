@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0B29C6DA-203F-4846-BC7D-A6F9754D6D90}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TiS.Engineering.InputApi</RootNamespace>
+    <AssemblyName>TiS.Engineering.InputApi</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>T:\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;xINTERNAL</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>T:\</OutputPath>
+    <DefineConstants>INTERNAL;xEXPOSE_CCColection</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'FormID|AnyCPU' ">
+    <OutputPath>T:\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;INTERNAL</DefineConstants>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'FreeMatch|AnyCPU' ">
+    <OutputPath>T:\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;xINTERNAL;EXPOSE_CCColection</DefineConstants>
+    <Optimize>false</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Import|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>T:\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;xINTERNAL</DefineConstants>
+    <Optimize>false</Optimize>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'RescanPortal|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>T:\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;xINTERNAL</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'FaxPortal|AnyCPU' ">
+    <OutputPath>T:\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;INTERNAL;xEXPOSE_CCColection</DefineConstants>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'XmlInput|AnyCPU' ">
+    <OutputPath>T:\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;INTERNAL;xEXPOSE_CCColection</DefineConstants>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TiS.Core.eFlowAPI, Version=4.5.1.0, Culture=neutral, PublicKeyToken=0752346849557bc9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>T:\\TiS.Core.eFlowAPI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="TiS.Core.eFlowInterfaces, Version=4.5.1.0, Culture=neutral, PublicKeyToken=0752346849557bc9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>T:\\TiS.Core.eFlowInterfaces.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="TiS.Core.PlatformRuntime, Version=4.5.1.0, Culture=neutral, PublicKeyToken=0752346849557bc9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>T:\\TiS.Core.PlatformRuntime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="TiS.Core.Workflow, Version=4.5.1.0, Culture=neutral, PublicKeyToken=0752346849557bc9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>T:\\TiS.Core.Workflow.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="TiS.Core.Workflow.WFCommon, Version=4.5.1.0, Culture=neutral, PublicKeyToken=0752346849557bc9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>T:\\TiS.Core.Workflow.WFCommon.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="TiS.Imaging, Version=4.5.1.0, Culture=neutral, PublicKeyToken=0752346849557bc9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>T:\TiS.Imaging.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="TiS.Recognition.Common, Version=4.5.1.0, Culture=neutral, PublicKeyToken=0752346849557bc9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>T:\\TiS.Recognition.Common.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="TiS.TisCommon, Version=4.5.1.0, Culture=neutral, PublicKeyToken=0752346849557bc9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>T:\TiS.TisCommon.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CCCollection\CCEflowBaseObject.cs" />
+    <Compile Include="CollectionOcrData\CharOcrData.cs" />
+    <Compile Include="CollectionOcrData\CollectionOcrData.cs" />
+    <Compile Include="CollectionOcrData\OcrData.cs" />
+    <Compile Include="CollectionOcrData\OcrRect.cs" />
+    <Compile Include="Config\CCBaseConfigurationData.cs" />
+    <Compile Include="Config\CCConfiguration.cs" />
+    <Compile Include="Config\CCConfigurationData.cs" />
+    <Compile Include="Config\CCGenericSerializer.cs" />
+    <Compile Include="Declare\CCConstants.cs" />
+    <Compile Include="Create\CCDataTable.cs" />
+    <Compile Include="Declare\CCDelegates.cs" />
+    <Compile Include="Declare\CCInterfaces.cs" />
+    <Compile Include="CCCollection\CCCollection.cs" />
+    <Compile Include="CCCollection\CCEflowObject.cs" />
+    <Compile Include="CCCollection\CCField.cs" />
+    <Compile Include="CCCollection\CCFieldArray.cs" />
+    <Compile Include="CCCollection\CCForm.cs" />
+    <Compile Include="CCCollection\CCGroup.cs" />
+    <Compile Include="Declare\CCEnums.cs" />
+    <Compile Include="CCCollection\CCDictContainer.cs" />
+    <Compile Include="Helpers\CCTDataRows.cs" />
+    <Compile Include="Helpers\FlexListComparer.cs" />
+    <Compile Include="Helpers\CCTimerSearch.cs" />
+    <Compile Include="Helpers\CCUtils.cs" />
+    <Compile Include="Helpers\CCSearchFiles.cs" />
+    <Compile Include="Create\CCreator.cs" />
+    <Compile Include="Helpers\CCFileList.cs" />
+    <Compile Include="Config\CCConfigDialog.cs" />
+    <Compile Include="CCCollection\CCPage.cs" />
+    <Compile Include="CCCollection\CCTable.cs" />
+    <Compile Include="CCCollection\FieldRect.cs" />
+    <Compile Include="Helpers\CsmManager.cs" />
+    <Compile Include="Helpers\ILog.cs" />
+    <Compile Include="Create\CollectionCreator.cs" />
+    <Compile Include="CollectionOcrData\LineOcrData.cs" />
+    <Compile Include="CollectionOcrData\PageOcrData.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CollectionOcrData\WordOcrData.cs" />
+    <Compile Include="Helpers\PropEdit.cs" />
+    <Compile Include="Helpers\SourceDataStamp.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>::COPY "$(TargetName).*" "$(ProjectDir)*"</PostBuildEvent>
+  </PropertyGroup>
+</Project>

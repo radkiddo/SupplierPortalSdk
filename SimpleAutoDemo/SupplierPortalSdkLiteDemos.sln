@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAutoDemo", "SimpleAutoDemo.csproj", "{D0952975-2F60-4BDD-BD15-3CCC1CFADFB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupplierPortalSdkLite", "..\SupplierPortalSdkLite\SupplierPortalSdkLite.csproj", "{42FEB823-8AF0-41F9-8A24-72AC13CE806F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupplierPortalSdkLiteDemo", "..\SupplierPortalSdkLiteDemo\SupplierPortalSdkLiteDemo.csproj", "{81E43288-FE4B-46AE-BECE-A9210832A6EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0952975-2F60-4BDD-BD15-3CCC1CFADFB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0952975-2F60-4BDD-BD15-3CCC1CFADFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0952975-2F60-4BDD-BD15-3CCC1CFADFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0952975-2F60-4BDD-BD15-3CCC1CFADFB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FEB823-8AF0-41F9-8A24-72AC13CE806F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FEB823-8AF0-41F9-8A24-72AC13CE806F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FEB823-8AF0-41F9-8A24-72AC13CE806F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FEB823-8AF0-41F9-8A24-72AC13CE806F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E43288-FE4B-46AE-BECE-A9210832A6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E43288-FE4B-46AE-BECE-A9210832A6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E43288-FE4B-46AE-BECE-A9210832A6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E43288-FE4B-46AE-BECE-A9210832A6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

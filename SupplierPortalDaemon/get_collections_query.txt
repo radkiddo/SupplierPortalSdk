@@ -1,0 +1,1 @@
+SELECT E_WFUnitMetaTags.WFUnit_FKID, E_WFUnitMetaTags.BatchName, R_WFQueueUnit.FK_WFQueueId FROM E_WFUnitMetaTags INNER JOIN R_WFQueueUnit ON E_WFUnitMetaTags.WFUnit_FKID = R_WFQueueUnit.FK_WFUnitId

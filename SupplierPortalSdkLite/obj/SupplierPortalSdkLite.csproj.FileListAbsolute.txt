@@ -1,0 +1,8 @@
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\SupplierPortalSdkLite\obj\Debug\ResolveAssemblyReference.cache
+T:\eFlow.SDK.SupplierPortalLite.dll
+T:\eFlow.SDK.SupplierPortalLite.pdb
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\SupplierPortalSdkLite\obj\Debug\eFlow.SDK.SupplierPortalLite.dll
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\SupplierPortalSdkLite\obj\Debug\eFlow.SDK.SupplierPortalLite.pdb
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\SupplierPortalSdkLite\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\SupplierPortalSdkLite\obj\Release\eFlow.SDK.SupplierPortalLite.dll
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\SupplierPortalSdkLite\obj\Release\eFlow.SDK.SupplierPortalLite.pdb

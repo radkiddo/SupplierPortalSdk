@@ -1,0 +1,3 @@
+T:\SupplierPortalSdkLiteDemo.exe.config
+T:\SupplierPortalSdkLiteDemo.exe
+T:\SupplierPortalSdkLiteDemo.pdb

@@ -1,0 +1,5 @@
+C:\Program Files (x86)\TIS\eFlow 5\Bin\TiS.Engineering.TiffDll90.dll
+C:\Program Files (x86)\TIS\eFlow 5\Bin\TiS.Engineering.TiffDll90.pdb
+C:\Eduardo\SupplierPortalSdk\TiS.Engineering.TiffDll90\obj\Release\TiS.Engineering.TiffDll90.dll
+C:\Eduardo\SupplierPortalSdk\TiS.Engineering.TiffDll90\obj\Release\TiS.Engineering.TiffDll90.pdb
+C:\Eduardo\SupplierPortalSdk\TiS.Engineering.TiffDll90\obj\Release\TiS.Engineering.TiffDll90.csprojResolveAssemblyReference.cache

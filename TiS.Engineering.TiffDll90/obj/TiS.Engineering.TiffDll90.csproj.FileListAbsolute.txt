@@ -1,0 +1,10 @@
+T:\TiS.Engineering.TiffDll90.dll
+T:\TiS.Engineering.TiffDll90.pdb
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.TiffDll90\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.TiffDll90\obj\Debug\TiS.Engineering.TiffDll90.dll
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.TiffDll90\obj\Debug\TiS.Engineering.TiffDll90.pdb
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.TiffDll90\bin\Release\TiS.Engineering.TiffDll90.dll
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.TiffDll90\bin\Release\TiS.Engineering.TiffDll90.pdb
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.TiffDll90\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.TiffDll90\obj\Release\TiS.Engineering.TiffDll90.dll
+C:\Documents and Settings\Admin\My Documents\Google Drive\TImgSysDeutsch\SupplierPortalSdk\TiS.Engineering.TiffDll90\obj\Release\TiS.Engineering.TiffDll90.pdb
